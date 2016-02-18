@@ -1,2 +1,5 @@
-# productive_java
-Learn Java again: tricks, optimization tips, production wizards
+# Productive Java
+Learn Java again
+* tricks
+* optimization tips
+* production wizards
